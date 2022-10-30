@@ -13,5 +13,5 @@ pkg update -y
 pkg upgrade -y
 echo "Package alredy install - running tools"
 clear
-sleep 3
+sleep 5
 python runcam.py
